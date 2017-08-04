@@ -1,0 +1,3 @@
+[submodule "example_1"]
+	path = example_1
+	url = git@github.com:IntegrityKnight/example.git
